@@ -1,9 +1,7 @@
 # [CVPR24] FedAS: Bridging Inconsistency in Personalized Fedearated Learning
 
-> Xiyuan Yang, Wenke Huang, Mang Ye
-
-> *CVPR, 2024*
-
+> Xiyuan Yang, Wenke Huang, Mang Ye  
+> *CVPR, 2024*  
 > [Paper Link](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_FedAS_Bridging_Inconsistency_in_Personalized_Federated_Learning_CVPR_2024_paper.html)
 
 Code Implementation and Informations about FedAS
