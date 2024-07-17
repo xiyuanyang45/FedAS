@@ -17,3 +17,6 @@ Personalized Federated Learning (PFL) is primarily designed to provide customize
     year      = {2024}
 }
 ```
+
+## Run
+Follow instructions.md to run.
