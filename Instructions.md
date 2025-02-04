@@ -6,7 +6,7 @@ Note that This is a variant of Jianqing's PFLib on Github "https://github.com/Ts
 ```python
 # e.g.
 cd dataset
-python generate_cifar10.py noniid - dir
+python generate_cifar100.py noniid - dir
 ```
 
 2. Run Code: Commands to run FedAS can be founded in system/examples.sh
